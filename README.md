@@ -19,6 +19,8 @@ A modern and responsive Language Translation Tool built using **Python**, **Flas
 
 🔗 https://language-translation-tool-hdb0.onrender.com
 
+---
+
 ## 🛠 Tech Stack
 
 - Python
@@ -106,6 +108,8 @@ The application is deployed on Render.
 
 Live Website:
 https://language-translation-tool-hdb0.onrender.com
+
+---
 
 ## 📸 Screenshot
 
