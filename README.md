@@ -144,6 +144,8 @@ The following enhancements are planned for future versions of the project:
 - 📋 Copy translated text to the clipboard.
 - 🌙 Dark/Light mode for an enhanced user experience.
 
+---
+
 ## ⭐ If you like this project
 
 Please consider giving it a **Star ⭐** on GitHub.
