@@ -15,6 +15,10 @@ A modern and responsive Language Translation Tool built using **Python**, **Flas
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://language-translation-tool-hdb0.onrender.com
+
 ## 🛠 Tech Stack
 
 - Python
@@ -23,6 +27,8 @@ A modern and responsive Language Translation Tool built using **Python**, **Flas
 - CSS3
 - JavaScript
 - Deep Translator
+- Gunicorn
+- Render (Deployment)
 
 ---
 
@@ -93,6 +99,13 @@ http://127.0.0.1:5000
 ```
 
 ---
+
+## 🚀 Deployment
+
+The application is deployed on Render.
+
+Live Website:
+https://language-translation-tool-hdb0.onrender.com
 
 ## 📸 Screenshot
 
