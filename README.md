@@ -96,7 +96,14 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshot
 
-Add a screenshot of the application here after uploading it to GitHub.
+<img width="1911" height="966" alt="image" src="https://github.com/user-attachments/assets/1d09ec9c-04f8-4e59-865a-9d88bb0d7828" />
+<img width="1911" height="957" alt="Screenshot 2026-08-02 155947" src="https://github.com/user-attachments/assets/8d8229c5-90a7-42c5-a812-075a3ebc8a7b" />
+<img width="1916" height="950" alt="Screenshot 2026-08-02 165917" src="https://github.com/user-attachments/assets/6780e0a5-bb3f-46ae-adbb-e1bf63688c74" />
+<img width="1919" height="959" alt="Screenshot 2026-08-02 165959" src="https://github.com/user-attachments/assets/fbbdccaf-95dd-43d1-a455-9b43d83f1a3a" />
+<img width="1919" height="958" alt="Screenshot 2026-08-02 170209" src="https://github.com/user-attachments/assets/52078788-cbc0-4a4d-8ae4-74ba0b21e2b9" />
+<img width="1917" height="957" alt="Screenshot 2026-08-02 170923" src="https://github.com/user-attachments/assets/45738687-6b94-4bff-8084-b0b647cacd93" />
+
+
 
 ---
 
