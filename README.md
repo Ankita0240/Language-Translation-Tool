@@ -117,6 +117,16 @@ LinkedIn: https://linkedin.com/in/ankita06
 
 ---
 
+## 🚀 Future Improvements
+
+The following enhancements are planned for future versions of the project:
+
+- 🌐 Support for additional languages.
+- 🔄 One-click language swap between source and target languages.
+- 🔊 Text-to-Speech (TTS) for translated text.
+- 📋 Copy translated text to the clipboard.
+- 🌙 Dark/Light mode for an enhanced user experience.
+
 ## ⭐ If you like this project
 
 Please consider giving it a **Star ⭐** on GitHub.
